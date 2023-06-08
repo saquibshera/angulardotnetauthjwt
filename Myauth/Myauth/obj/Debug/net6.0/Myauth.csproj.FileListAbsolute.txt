@@ -1,0 +1,171 @@
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/appsettings.Development.json
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/appsettings.json
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Myauth
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Myauth.deps.json
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Myauth.runtimeconfig.json
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Myauth.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/ref/Myauth.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Myauth.pdb
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Humanizer.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/obj/Debug/net6.0/Myauth.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/obj/Debug/net6.0/Myauth.AssemblyInfoInputs.cache
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/obj/Debug/net6.0/Myauth.AssemblyInfo.cs
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/obj/Debug/net6.0/Myauth.csproj.CoreCompileInputs.cache
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/obj/Debug/net6.0/Myauth.MvcApplicationPartsAssemblyInfo.cs
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/obj/Debug/net6.0/Myauth.MvcApplicationPartsAssemblyInfo.cache
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/obj/Debug/net6.0/staticwebassets.build.json
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/obj/Debug/net6.0/staticwebassets.development.json
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/obj/Debug/net6.0/scopedcss/bundle/Myauth.styles.css
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/obj/Debug/net6.0/Myauth.csproj.CopyComplete
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/obj/Debug/net6.0/Myauth.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/obj/Debug/net6.0/ref/Myauth.dll
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/obj/Debug/net6.0/Myauth.pdb
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/obj/Debug/net6.0/Myauth.genruntimeconfig.cache
+/Users/saquibmanzoor/Desktop/MyAngulardotnetwork/Myauth/Myauth/obj/Debug/net6.0/Myauth.csproj.AssemblyReference.cache
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/obj/Debug/net6.0/Myauth.csproj.AssemblyReference.cache
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/obj/Debug/net6.0/Myauth.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/obj/Debug/net6.0/Myauth.AssemblyInfoInputs.cache
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/obj/Debug/net6.0/Myauth.AssemblyInfo.cs
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/obj/Debug/net6.0/Myauth.csproj.CoreCompileInputs.cache
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/obj/Debug/net6.0/Myauth.MvcApplicationPartsAssemblyInfo.cs
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/obj/Debug/net6.0/Myauth.MvcApplicationPartsAssemblyInfo.cache
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/obj/Debug/net6.0/Myauth.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/obj/Debug/net6.0/Myauth.pdb
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/appsettings.json
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/appsettings.Development.json
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Myauth
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Myauth.deps.json
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Myauth.runtimeconfig.json
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Myauth.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Myauth.pdb
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Humanizer.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/obj/Debug/net6.0/staticwebassets/msbuild.Myauth.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/obj/Debug/net6.0/staticwebassets/msbuild.build.Myauth.props
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Myauth.props
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Myauth.props
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/obj/Debug/net6.0/staticwebassets.build.json
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/obj/Debug/net6.0/staticwebassets.development.json
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/obj/Debug/net6.0/scopedcss/bundle/Myauth.styles.css
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/obj/Debug/net6.0/Myauth.csproj.CopyComplete
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/obj/Debug/net6.0/refint/Myauth.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/obj/Debug/net6.0/Myauth.genruntimeconfig.cache
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/obj/Debug/net6.0/ref/Myauth.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/AutoMapper.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/saquibmanzoor/Desktop/My personal data/MyAngulardotnetwork/Myauth/Myauth/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll

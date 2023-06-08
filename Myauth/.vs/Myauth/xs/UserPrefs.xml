@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{51710F0F-CF7B-4214-B24A-211F1FB5B06A}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Myauth/Program.cs">
+    <Files>
+      <File FileName="Myauth/Interface/Itokenservice.cs" Line="1" Column="1" />
+      <File FileName="Myauth/Services/tokenservice.cs" Line="37" Column="51" />
+      <File FileName="Myauth/Program.cs" Line="32" Column="3" />
+      <File FileName="Myauth/Controllers/AccountController.cs" Line="31" Column="54" />
+      <File FileName="Myauth/Helpers/Maphelper.cs" Line="5" Column="1" />
+      <File FileName="Myauth/dtos/login.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Myauth" expanded="True">
+            <Node name="Myauth" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="dtos" expanded="True" />
+              <Node name="Helpers" expanded="True" />
+              <Node name="Interface" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Myauth PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
